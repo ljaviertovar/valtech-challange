@@ -1,0 +1,16 @@
+{
+  "admin/cookie-fortune.navigation.label-group": "Challenge",
+  "admin/cookie-fortune.navigation.label-main" : "Cookie Fortune",
+  "admin/cookie-fortune.title": "Galletas de la Fortuna",
+  "admin/cookie-fortune.addFortunePlaceholder": "Escribe tu fortuna aquí...",
+  "admin/cookie-fortune.addFortuneBtn": "Agregar Fortuna",
+  "admin/cookie-fortune.results": "Resultados",
+  "admin/cookie-fortune.of": "De",
+  "admin/cookie-fortune.previous": "Anterior",
+  "admin/cookie-fortune.table.col-title.cookie-fortune": "Galleta de la Fortuna",
+  "admin/cookie-fortune.table.col-title.actions": "Acciones",
+  "admin/cookie-fortune.modalConfirm.deleteFortune.title": "Eliminar Fortuna",
+  "admin/cookie-fortune.modalConfirm.deleteFortune.subtitle": "¿Estás seguro de que quieres eliminar esta fortuna?",
+  "admin/cookie-fortune.confirm": "Confirmar",
+  "admin/cookie-fortune.cancel": "Cancelar"
+}

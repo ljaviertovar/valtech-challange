@@ -1,0 +1,43 @@
+{
+  "store.custom#cookie-fortune": {
+    "blocks": [
+      "flex-layout.row#row-banner-cookie-fortune",
+      "flex-layout.row#row-cookie-fortune"
+    ]
+  },
+  // banner block
+  "flex-layout.row#row-banner-cookie-fortune": {
+    "children": [
+      "image#image-banner-cookie-fortune"
+    ],
+    "props": {
+      "blockClass": "row-banner-cookie-fortune"
+    }
+  },
+  "flex-layout.col#col-banner-cookie-fortune": {
+    "children": [
+      "image#image-banner-cookie-fortune"
+    ]
+  },
+  "image#image-banner-cookie-fortune": {
+    "props": {
+      "src": "assets/cookieFortune/cookie-fortune-banner-1.avif",
+      "preload": true,
+      "blockClass": "cookie-fortune-banner"
+    }
+  },
+  //  custom block
+  "flex-layout.row#row-cookie-fortune": {
+    "children": [
+      "flex-layout.col#col-cookie-fortune"
+    ],
+    "props": {
+      "blockClass": "row-cookie-fortune"
+    }
+  },
+  "flex-layout.col#col-cookie-fortune": {
+    "children": [
+      "cookie-fortune"
+    ]
+  }
+}

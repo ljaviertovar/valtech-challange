@@ -1,0 +1,17 @@
+{
+"admin/cookie-fortune.navigation.label-group": "Challenge",
+"admin/cookie-fortune.navigation.label-main" : "Cookie Fortune",
+"admin/cookie-fortune.title": "Cookie Fortune",
+"admin/cookie-fortune.addFortunePlaceholder": "Write your fortune here...",
+"admin/cookie-fortune.addFortuneBtn": "Add Fortune",
+"admin/cookie-fortune.results": "Results",
+"admin/cookie-fortune.of": "Of",
+"admin/cookie-fortune.previous": "Previous",
+"admin/cookie-fortune.next": "Next",
+"admin/cookie-fortune.table.col-title.cookie-fortune": "Cookie Fortune",
+"admin/cookie-fortune.table.col-title.actions": "Actions",
+"admin/cookie-fortune.modalConfirm.deleteFortune.title": "Delete Fortune",
+"admin/cookie-fortune.modalConfirm.deleteFortune.subtitle": "Are you sure you want to delete this fortune?",
+"admin/cookie-fortune.confirm": "Confirm",
+"admin/cookie-fortune.cancel": "Cancel"
+}

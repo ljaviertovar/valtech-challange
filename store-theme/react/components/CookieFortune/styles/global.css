@@ -1,0 +1,25 @@
+.styleguide__layout {
+  background-color: #fff;
+}
+
+.vtex-pageHeader__title {
+  text-align: center;
+}
+
+.lucky-container {
+  height: 300px;
+  display: grid;
+  place-content: center;
+}
+
+.cookie-fortune-container {
+  height: 146px;
+  display: grid;
+  place-content: center;
+}
+
+.cookie-fortune-phrase {
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: rgba(247, 130, 36, 0.4);
+}
