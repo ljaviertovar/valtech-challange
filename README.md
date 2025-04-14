@@ -2,6 +2,8 @@
 
 `AdminCookieFortune` is an admin component for managing fortune phrases in an e-commerce application using the VTEX IO platform. It allows administrators to add, delete, and view fortune phrases, with support for pagination and state control.
 
+![Screenshot 2025-04-14 194730](https://github.com/user-attachments/assets/ec520785-add9-4ee7-b5ea-6ea6e77c226e)
+
 ## Requirements
 
 - **Node.js**: Version 14.x or higher.
@@ -73,9 +75,16 @@ A custom hook for handling the business logic associated with fortune phrases.
 
 Styles are defined in `styles/global.css`. You can customize them according to your needs.
 
+
+
 # Cookie Fortune Component
 
 The `CookieFortune` component is a storefront feature that provides users with a fun and interactive experience by displaying a fortune cookie phrase and a lucky number. It allows users to open a fortune cookie and try another one if they wish.
+
+![Screenshot 2025-04-14 194618](https://github.com/user-attachments/assets/bb9031ca-fec3-4e34-881e-4cab7569e273)
+![Screenshot 2025-04-14 195243](https://github.com/user-attachments/assets/448320b8-f069-49cb-a12e-bdb2281b6b48)
+![Screenshot 2025-04-14 194640](https://github.com/user-attachments/assets/87dbb90d-bd14-4b86-b95f-5112108022b8)
+
 
 ## Features
 
