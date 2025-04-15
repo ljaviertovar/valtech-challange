@@ -1,8 +1,14 @@
-# AdminCookieFortune
+# Admin Cookie Fortune
 
 `AdminCookieFortune` is an admin component for managing fortune phrases in an e-commerce application using the VTEX IO platform. It allows administrators to add, delete, and view fortune phrases, with support for pagination and state control.
 
 ![Screenshot 2025-04-14 194730](https://github.com/user-attachments/assets/ec520785-add9-4ee7-b5ea-6ea6e77c226e)
+
+## Features
+
+- **Manage Fortune Phrases**: Add and delete phrases with ease.
+- **Pagination**: Navigate through the list of fortune phrases using pagination controls.
+- **VTEX IO Integration**: Seamless integration with VTEX IO projects.
 
 ## Requirements
 
@@ -33,19 +39,6 @@ To install and configure the component in your VTEX IO project, follow these ste
 
    Ensure that `AdminCookieFortune` is registered and configured in your VTEX IO project.
 
-## Usage
-
-To use the `AdminCookieFortune` component, simply import and use the component in your VTEX IO application.
-
-### Example
-
-```jsx
-import AdminCookieFortune from './components/AdminCookieFortune'
-
-// Within your component or page:
-;<AdminCookieFortune />
-```
-
 ## Components
 
 ### `AdminCookieFortune`
@@ -71,13 +64,9 @@ A custom hook for handling the business logic associated with fortune phrases.
 - **`addCookieFortune`**: Function to add a new fortune phrase.
 - **`deleteCookieFortune`**: Function to delete a fortune phrase.
 
-## Styles
+<hr>
 
-Styles are defined in `styles/global.css`. You can customize them according to your needs.
-
-
-
-# Cookie Fortune Component
+# Cookie Fortune Landing Page
 
 The `CookieFortune` component is a storefront feature that provides users with a fun and interactive experience by displaying a fortune cookie phrase and a lucky number. It allows users to open a fortune cookie and try another one if they wish.
 
@@ -157,6 +146,8 @@ The `CookieFortune` component does not require any props.
 ## Styles
 
 Styles are defined in `styles/global.css`. Customize them as needed to fit the visual design of your storefront.
+
+<hr>
 
 ## Contributing
 
