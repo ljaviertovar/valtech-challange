@@ -2,6 +2,8 @@
 
 `AdminCookieFortune` is an admin component for managing fortune phrases in an e-commerce application using the VTEX IO platform. It allows administrators to add, delete, and view fortune phrases, with support for pagination and state control.
 
+https://luischallenge--valtech.myvtex.com/admin/cookie-fortune
+
 ![Screenshot 2025-04-14 194730](https://github.com/user-attachments/assets/ec520785-add9-4ee7-b5ea-6ea6e77c226e)
 
 ## Features
