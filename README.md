@@ -70,6 +70,8 @@ A custom hook for handling the business logic associated with fortune phrases.
 
 The `CookieFortune` component is a storefront feature that provides users with a fun and interactive experience by displaying a fortune cookie phrase and a lucky number. It allows users to open a fortune cookie and try another one if they wish.
 
+https://luischallenge--valtech.myvtex.com/cookie-fortune
+
 ![Screenshot 2025-04-14 194618](https://github.com/user-attachments/assets/bb9031ca-fec3-4e34-881e-4cab7569e273)
 ![Screenshot 2025-04-14 195243](https://github.com/user-attachments/assets/448320b8-f069-49cb-a12e-bdb2281b6b48)
 ![Screenshot 2025-04-14 194640](https://github.com/user-attachments/assets/87dbb90d-bd14-4b86-b95f-5112108022b8)
