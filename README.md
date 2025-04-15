@@ -1,4 +1,4 @@
-# Admin Cookie Fortune
+# Cookie Fortune Admin
 
 `AdminCookieFortune` is an admin component for managing fortune phrases in an e-commerce application using the VTEX IO platform. It allows administrators to add, delete, and view fortune phrases, with support for pagination and state control.
 
