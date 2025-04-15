@@ -74,7 +74,7 @@ The `CookieFortune` component is a storefront feature that provides users with a
 
 https://luischallenge--valtech.myvtex.com/cookie-fortune
 
-![Screenshot 2025-04-14 194618](https://github.com/user-attachments/assets/bb9031ca-fec3-4e34-881e-4cab7569e273)
+![image](https://github.com/user-attachments/assets/ce327ab0-7fb3-43e2-9828-fc2e2f7ec03d)
 ![Screenshot 2025-04-14 195243](https://github.com/user-attachments/assets/448320b8-f069-49cb-a12e-bdb2281b6b48)
 ![Screenshot 2025-04-14 194640](https://github.com/user-attachments/assets/87dbb90d-bd14-4b86-b95f-5112108022b8)
 
